@@ -26,7 +26,7 @@ $ sudo npm install
 $ ng serve -o
 ```
 
-This project was created by [Hardy Lutula dylut2000](https://twitter.com/dylut2000?lang=en)
+This project was created by [Hardy Lutula #dylut2000](https://twitter.com/dylut2000?lang=en)
 
 
 Have fun guys... will add some more stuff so stay tune on my [GITHUB dylut2000](https://github.com/dylut2000)
