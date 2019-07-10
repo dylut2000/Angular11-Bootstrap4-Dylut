@@ -8,6 +8,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - [Popper]()
 - [font-awesome@4.7.0](https://www.npmjs.com/package/angular-font-awesome)
 - [angular-font-awesome@3.1.2](https://www.npmjs.com/package/angular-font-awesome)
+- [animate css](https://daneden.github.io/animate.css/)
 
 ## How it works
 
